@@ -3,7 +3,7 @@ This is a simple shopping cart app that allows users to add items to their cart.
 
 Deployment Link: https://someswar735.github.io/Mobile.App/
 
-Technologies Used
+Technologies Used:
 
 HTML5
 
@@ -13,7 +13,7 @@ JavaScript
 
 Firebase Realtime Database
 
-Features
+Features:
 
 Add items to the cart
 
@@ -22,7 +22,7 @@ View items in the cart
 Responsive design for mobile and desktop
 
 
-Getting Started
+Getting Started:
 
 To run the app locally, follow these steps:
 

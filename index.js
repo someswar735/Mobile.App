@@ -18,11 +18,10 @@ onValue(itemsINDB, function(snapshot) {
     
     clearItemsListEl()
     
-    // Challenge: Write a for loop where you console log each book.
+
     for (let i = 0; i < itemsArray.length; i++) {
         let currentItem = itemsArray[i]
-        
-        // Challenge: Use the appendBookToBooksListEl() function to append book instead of console logging
+    
         appendItemtoItemsListEl(currentItem)
     }
 })
